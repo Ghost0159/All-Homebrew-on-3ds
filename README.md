@@ -17,7 +17,7 @@ Pour télécharger tous les homebrew existant [cliquer ici](https://github.com/G
 
 Pour connaître les dernières nouvelles sur le hack de console [cliquer ici](http://www.logic-sunrise.com/)
 
-Logiciel pour mettre à jour votre homebrew 3ds [cliquez ici](https://github.com/Universal-Team/Universal-Updater/releases)
+Logiciel pour mettre à jour vos homebrew 3ds [cliquez ici](https://github.com/Universal-Team/Universal-Updater/releases)
 
 Enjoy :smile:
 
